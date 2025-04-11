@@ -3,7 +3,7 @@
 ## Registro de Desafio Completado
 https://github.com/user-attachments/assets/1001ea79-b7e6-4f0a-bb56-878048dfb4f4
 
-<span style="color:red;">En la versión final si se encienden los leds</span>
+```diff En la versión final si se encienden los leds ```
 ## Información del Equipo
 
 - **Equipo:** M0-V
