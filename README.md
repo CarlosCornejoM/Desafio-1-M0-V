@@ -21,14 +21,14 @@
 
 En este desafío se plantea el desarrollo de un sistema de control abierto de motores DC mediante el microcontrolador ARDUINO, con el fin de guiar el movimiento de un vehículo a lo largo de una ruta establecida.  
 
-![Fast & Rats](A.jpg)
+![Fast & Rats](Imagenes/A.jpg)
 
 **Objetivo:**  
 Desarrollar y validar un código que siga el trayecto del vehículo, además de indicar el inicio y fin del recorrido mediante 2 leds integrados en la PCB.
 **Importancia:**  
-Este desafío integra aspectos de hardware y software, siendo un primer paso en la eventual implementación de un sistema de control de lazo cerrado, una versión mas sofisticada de esta idea puede verse en el siguiente video:
+Este desafío integra aspectos de hardware y software, siendo un primer paso en la eventual implementación de un sistema de control de lazo cerrado, una versión mas sofisticada de esta idea puede verse en el siguiente video (click en la imagen para ver)
 
-[![Texto alternativo](B.jpg)](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
+[![Texto alternativo](Imagenes/B.jpg)](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 ---
 
 ## Metodología
@@ -43,20 +43,19 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 - **Segmentación del Trayecto:** Dividir la ruta en seis tramos de conducción recta y cinco giros para facilitar el control preciso.
 - **Control Modular:** Desarrollo de funciones independientes que permitan gestionar cada tramo.
 
-![Ruta](C.png)
+![Ruta](Imagenes/C.png)
 
 ### Herramientas y Materiales
 
 - **Hardware:**  
   -Microcontrolador Arduino Nano
   -Módulo controlador de motores L298N H-bridge
-  -2x Motorreductor DC
+  -2x Motorreductor DC y par de ruedas
   -batería de 9 V
 
 
 - **Software:**  
   - Arduino IDE
-
 
 ---
 
@@ -65,7 +64,7 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 ### Hardware
 
 **Diagrama y Esquemas de Conexión:**  
-Inserta aquí el diagrama de conexiones del vehículo:
+![Ruta](Imagenes/esquema.png)
 
 
 **Justificación de Componentes:**  
