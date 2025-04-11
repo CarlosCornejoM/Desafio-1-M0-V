@@ -1,5 +1,8 @@
 # Desafío 1 – Ratmóvil 
 
+## Registro de Desafio Completado
+https://github.com/user-attachments/assets/1001ea79-b7e6-4f0a-bb56-878048dfb4f4
+
 ## Información del Equipo
 
 - **Equipo:** M0-V
