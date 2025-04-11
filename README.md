@@ -49,8 +49,8 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 
 - **Hardware:**  
   - <figure>
+<figcaption>Microcontrolador Arduino Nano</figcaption>
   <img src="D.png" alt="Texto Alternativo" style="width:50%;">
-  <figcaption>Microcontrolador Arduino Nano</figcaption>
 </figure>
 
 
