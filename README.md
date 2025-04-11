@@ -2,7 +2,7 @@
 
 ## Información del Equipo
 
-- **Equipo:** [Nombre del Equipo]  
+- **Equipo:** M0-V
 - **Integrantes:**  
   - Felipe Neira  
   - Antonia Reijnst  
@@ -14,8 +14,6 @@
 - **Profesor Auxiliar:** Francisco Cáceres V. / Fernando Navarrete U.  
 - **Ayudante:** Valentina Abarca G.
 
-**Fecha de Entrega:** 10 de abril de 2025  
-**Repositorio de GitHub:** [https://github.com/CarlosCornejoM/Desafio-1-M0-V](https://github.com/CarlosCornejoM/Desafio-1-M0-V)
 
 ---
 
@@ -24,7 +22,7 @@
 En este desafío se plantea el desarrollo de un sistema de control para una plataforma móvil, con el fin de guiar el movimiento de un vehículo a lo largo de una ruta establecida.  
 **Objetivo:**  
 Desarrollar y validar un código que controle el trayecto del vehículo, utilizando señales visuales (encendido y apagado de un LED) para indicar el inicio y fin del recorrido.
-
+![Fast & Rats](.A.png)
 **Importancia:**  
 Este desafío integra aspectos de hardware y software, siendo relevante para la implementación de sistemas automatizados en el ámbito de la mecatrónica.
 
