@@ -48,7 +48,7 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 ### Herramientas y Materiales
 
 - **Hardware:**  
-  - ![Microcontrolador Arduino Nano](D.png)
+  - [Microcontrolador Arduino Nano](D.png)
 
 
   - ![Módulo controlador de motores L298N H-bridge](E.png)
