@@ -80,12 +80,6 @@ Se realizaron pruebas en entorno controlado para verificar:
 - Precisión en la ejecución de tramos y giros.
 - Estabilidad y desempeño del sistema en condiciones reales.
 
-### Resultados Obtenidos
-
-
-poner video aca
-
-
 ### Problemas Encontrados y Soluciones
 
 - **Conexiones inestables:**  
