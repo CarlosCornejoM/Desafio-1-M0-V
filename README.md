@@ -2,7 +2,7 @@
 
 ## Registro de Desafio Completado
 https://github.com/user-attachments/assets/1001ea79-b7e6-4f0a-bb56-878048dfb4f4
-> [!IMPORTANTE]
+> [!NOTE]
 > Este es un video antiguo, en la versión final si se encienden los leds blancos.
 
 ## Información del Equipo
