@@ -48,19 +48,29 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 ### Herramientas y Materiales
 
 - **Hardware:**  
-  - <figure>
-<figcaption>Microcontrolador Arduino Nano</figcaption>
-  <img src="D.png" alt="Texto Alternativo" style="width:50%;">
-</figure>
+    <figure>
+    <figcaption>Microcontrolador Arduino Nano</figcaption>
+    <img src="D.png" alt="Texto Alternativo" style="width:50%;">
+    </figure>
+
+    <figure>
+    <figcaption>Módulo controlador de motores L298N H-bridge</figcaption>
+    <img src="E.png" alt="Texto Alternativo" style="width:50%;">
+    </figure>
+
+    <figure>
+    <figcaption>2x Motorreductor DC</figcaption>
+    <img src="F.png" alt="Texto Alternativo" style="width:50%;">
+    </figure>
+
+    <figure>
+    <figcaption>batería de 9 V</figcaption>
+    <img src="G.png" alt="Texto Alternativo" style="width:50%;">
+    </figure>
 
 
-  - ![Módulo controlador de motores L298N H-bridge](E.png)
 
 
-  - ![2x Motorreductor DC](F.png)
-
- 
- - 1 batería de 9 V
 
 
 - **Software:**  
