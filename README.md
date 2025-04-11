@@ -78,14 +78,12 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 Se realizaron pruebas en entorno controlado para verificar:
 
 - Precisión en la ejecución de tramos y giros.
-- Sincronización entre el movimiento del vehículo y la activación del LED.
 - Estabilidad y desempeño del sistema en condiciones reales.
 
 ### Resultados Obtenidos
 
 
-**Video/GIF de Pruebas:**  
-Para ilustrar el proceso y los resultados, se puede agregar un video o gif:
+poner video aca
 
 
 ### Problemas Encontrados y Soluciones
