@@ -3,7 +3,7 @@
 ## Registro de Desafio Completado
 https://github.com/user-attachments/assets/1001ea79-b7e6-4f0a-bb56-878048dfb4f4
 > [!NOTE]
-> Este es un video antiguo, en la versión final si se encienden los leds blancos.
+> No se ve bien pero parpadean 3 veces los leds blancos al inicio y final del trayecto.
 
 ## Información del Equipo
 
