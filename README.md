@@ -19,13 +19,13 @@
 
 ## Introducción
 
-En este desafío se plantea el desarrollo de un sistema de control para una plataforma móvil, con el fin de guiar el movimiento de un vehículo a lo largo de una ruta establecida.  
+En este desafío se plantea el desarrollo de un sistema de control abierto de motores DC mediante el microcontrolador ARDUINO, con el fin de guiar el movimiento de un vehículo a lo largo de una ruta establecida.  
+![Fast & Rats](A.jpg)
 **Objetivo:**  
 Desarrollar y validar un código que controle el trayecto del vehículo, utilizando señales visuales (encendido y apagado de un LED) para indicar el inicio y fin del recorrido.
-![Fast & Rats](.A.jpg)
 **Importancia:**  
-Este desafío integra aspectos de hardware y software, siendo relevante para la implementación de sistemas automatizados en el ámbito de la mecatrónica.
-
+Este desafío integra aspectos de hardware y software, siendo un primer paso en la eventual implementación de un sistema de control de lazo cerrado, una versión mas sofisticada de esta idea puede verse en el siguiente video:
+[![Texto alternativo](B.jpg)](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 ---
 
 ## Metodología
