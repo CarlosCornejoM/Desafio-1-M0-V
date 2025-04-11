@@ -1,4 +1,4 @@
-# Desafío 1 – Control Motor DC con controlador L298N
+# Desafío 1 – Ratmóvil 
 
 ## Información del Equipo
 
@@ -20,11 +20,14 @@
 ## Introducción
 
 En este desafío se plantea el desarrollo de un sistema de control abierto de motores DC mediante el microcontrolador ARDUINO, con el fin de guiar el movimiento de un vehículo a lo largo de una ruta establecida.  
+
 ![Fast & Rats](A.jpg)
+
 **Objetivo:**  
 Desarrollar y validar un código que controle el trayecto del vehículo, utilizando señales visuales (encendido y apagado de un LED) para indicar el inicio y fin del recorrido.
 **Importancia:**  
 Este desafío integra aspectos de hardware y software, siendo un primer paso en la eventual implementación de un sistema de control de lazo cerrado, una versión mas sofisticada de esta idea puede verse en el siguiente video:
+
 [![Texto alternativo](B.jpg)](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 ---
 
@@ -34,22 +37,32 @@ Este desafío integra aspectos de hardware y software, siendo un primer paso en 
 
 El reto consistió en lograr un control preciso del vehículo, dividiendo el trayecto en secciones que faciliten la programación y validación de cada parte (tramos de conducción recta y giros).
 
+
 ### Enfoque Utilizado
 
 - **Segmentación del Trayecto:** Dividir la ruta en seis tramos de conducción recta y cinco giros para facilitar el control preciso.
 - **Control Modular:** Desarrollo de funciones independientes que permitan gestionar cada tramo y validar la señalización mediante LED.
 
+![Ruta](C.png)
+
 ### Herramientas y Materiales
 
 - **Hardware:**  
-  - Microcontrolador (especificar modelo)  
-  - Sensores y actuadores (incluyendo LED)  
-  - Componentes eléctricos (cables, interruptores, batería, etc.)
+  - Microcontrolador Arduino Nano
+
+
+  - controlador L298N
+
+
+  - 2 Motor DC
+
+ 
+ - 1 batería de 9 V
+
 
 - **Software:**  
-  - Lenguaje de programación (por ejemplo, C/C++)  
-  - Herramientas de desarrollo y depuración  
-  - Repositorio de GitHub para control de versiones y documentación
+  - Arduino IDE
+
 
 ---
 
