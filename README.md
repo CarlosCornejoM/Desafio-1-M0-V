@@ -22,7 +22,7 @@
 En este desafío se plantea el desarrollo de un sistema de control para una plataforma móvil, con el fin de guiar el movimiento de un vehículo a lo largo de una ruta establecida.  
 **Objetivo:**  
 Desarrollar y validar un código que controle el trayecto del vehículo, utilizando señales visuales (encendido y apagado de un LED) para indicar el inicio y fin del recorrido.
-![Fast & Rats](.A.png)
+![Fast & Rats](.A.jpg)
 **Importancia:**  
 Este desafío integra aspectos de hardware y software, siendo relevante para la implementación de sistemas automatizados en el ámbito de la mecatrónica.
 
