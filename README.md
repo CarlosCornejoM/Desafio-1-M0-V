@@ -88,21 +88,10 @@ poner video aca
 
 ### Problemas Encontrados y Soluciones
 
-- **Conexiones inestables en el LED:**  
+- **Conexiones inestables:**  
   *Solución:* Reemplazo de cables defectuosos y uso de un interruptor para asegurar una conexión confiable.
 
 - **Inconsistencias durante giros:**  
   *Solución:* Ajustes en la programación y mejora en el mecanismo de alineación de la rueda loca.
 
----
-
-## Discusión de Resultados
-
-- **Desempeño del Sistema:** El vehículo siguió la ruta predefinida con precisión, ajustándose correctamente a cada tramo y giro.  
-- **Precisión y Errores:** La segmentación permitió identificar errores y corregirlos en tiempo real mediante pruebas y ajustes.  
-- **Optimización:**  
-  - Implementar un encoder para medir la distancia exacta recorrida.
-  - Mejorar la fijación de componentes críticos, como la batería, para evitar desajustes en el movimiento.
-
----
 
