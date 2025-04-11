@@ -24,9 +24,9 @@ En este desafío se plantea el desarrollo de un sistema de control abierto de mo
 ![Fast & Rats](Imagenes/A.jpg)
 
 **Objetivo:**  
-Desarrollar y validar un código que siga el trayecto del vehículo, además de indicar el inicio y fin del recorrido mediante 2 leds integrados en la PCB.
+Desarrollar y validar un código que siga un trayecto predeterminado, además de indicar el inicio y fin del recorrido mediante 2 leds integrados en la PCB.
 **Importancia:**  
-Este desafío integra aspectos de hardware y software, siendo un primer paso en la eventual implementación de un sistema de control de lazo cerrado, una versión mas sofisticada de esta idea puede verse en el siguiente video (click en la imagen para ver)
+Este desafío integra aspectos de básicos hardware y software, siendo un primer paso en la eventual implementación de un sistema de control de lazo cerrado, una versión mas sofisticada de esta idea puede verse en el siguiente video (click en la imagen para ver)
 
 [![Texto alternativo](Imagenes/B.jpg)](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 ---
@@ -67,7 +67,7 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 ![Ruta](Imagenes/esquema.png)
 
 
-**Caracterización de PWM **  
+## Caracterización de PWM ##
 
 ---
 
