@@ -79,7 +79,9 @@ El control de los motores se realiza mediante driver L298N el cual recibe 2 señ
 
 A continuación se muestra la medición experimental de los pines in1, in2 a 2-6ms de duración, se ha usado otro [Arduino como osciloscipio ](https://github.com/CarlosCornejoM/Osciloscopio-4ch-Arduino)
 
-[![](Imagenes/B.jpg)](pwm.mp4)
+https://github.com/user-attachments/assets/29abbf53-6fe2-44ab-9480-1c4eaf6c88c3
+
+
 La inversión de las señales in1, in2 se produce al imponer una velocidad negativa (avanzar(-255,6,1) es lo mismo que retroceder(255,6,1)), en este caso se cambia la polaridad del rotor y se usa analogWrite(enA, abs(velocidad)).
 
 ---
