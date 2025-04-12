@@ -53,10 +53,10 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 ### Herramientas y Materiales
 
 - **Hardware:**  
-  -Microcontrolador Arduino Nano
-  -Módulo controlador de motores L298N H-bridge
-  -2x Motorreductor DC y par de ruedas
-  -batería de 9 V
+  - Microcontrolador Arduino Nano
+  - Módulo controlador de motores L298N H-bridge
+  - 2x Motorreductor DC y par de ruedas
+  - Batería de 9 V
 
 
 - **Software:**  
@@ -73,7 +73,11 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 
 
 ## Caracterización de PWM ##
+![señal PWM típica de Arduino a 490Hz, modulada por Duty](Animation.gif)
 
+El control de los motores se realiza mediante driver L298N el cual recibe 2 señales PWM para modular la potencia del motor y 4 entradas digitales (2 por motor) que determinan la polaridad del motor DC cambiando así su dirección.
+
+A continuación se muestra la medición experimental de los pines in1, in2 a 2-6ms de duración, el inversión de las señales se produce al usar una velocidad negativa, avanzar(-255,6,1), en este caso se cambia la polaridad del rotor y se usa  analogWrite(enA, abs(velocidad));
 ---
 
 ## Pruebas y Validación
