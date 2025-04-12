@@ -77,8 +77,7 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 
 El control de los motores se realiza mediante driver L298N el cual recibe 2 señales PWM para modular la potencia del motor y 4 entradas digitales (2 por motor) que determinan la polaridad del motor DC cambiando así su dirección.
 
-A continuación se muestra la medición experimental de los pines in1, in2 a 2-6ms de duración, el inversión de las señales se produce al usar una velocidad negativa (avanzar(-255,6,1)), en este caso se cambia la polaridad del rotor y se usa  analogWrite(enA, abs(velocidad))
-
+A continuación se muestra la medición experimental de los pines in1, in2 a 2-6ms de duración, la inversión de las señales in1, in2 se produce al imponer una velocidad negativa (avanzar(-255,6,1) es lo mismo que retroceder(255,6,1)), en este caso se cambia la polaridad del rotor y se usa  analogWrite(enA, abs(velocidad)).
 ---
 
 ## Pruebas y Validación
