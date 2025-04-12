@@ -75,7 +75,7 @@ El reto consistió en lograr un control preciso del vehículo, dividiendo el tra
 ## Caracterización de PWM ##
 ![señal PWM típica de Arduino a 490Hz, modulada por Duty](Animation.gif)
 
-El control de los motores se realiza mediante driver L298N el cual recibe 2 señales PWM para modular la potencia del motor y 4 entradas digitales (2 por motor) que determinan la polaridad del motor DC cambiando así su dirección.
+El control de los motores se realiza mediante driver L298N el cual recibe 2 señales PWM para modular la potencia de cada motor y 4 entradas digitales que determinan la polaridad cambiando así la dirección de rotación.
 
 A continuación se muestra la medición experimental de los pines in1, in2 a 2-6ms de duración, se ha usado otro [Arduino como osciloscipio ](https://github.com/CarlosCornejoM/Osciloscopio-4ch-Arduino)
 
