@@ -1,10 +1,5 @@
 # Desafío 1 – Ratmóvil 
 
-## Registro de Desafio Completado
-https://github.com/user-attachments/assets/1001ea79-b7e6-4f0a-bb56-878048dfb4f4
-> [!NOTE]
-> No se ve bien pero parpadean 3 veces los leds blancos al inicio y final del trayecto.
-
 ## Información del Equipo
 
 - **Equipo:** M0-V
@@ -96,6 +91,11 @@ Se realizaron pruebas en entorno controlado para verificar:
 
 - Precisión en la ejecución de tramos y giros.
 - Estabilidad y desempeño del sistema en condiciones reales.
+  
+## Registro de Desafio Completado
+https://github.com/user-attachments/assets/1001ea79-b7e6-4f0a-bb56-878048dfb4f4
+> [!NOTE]
+> No se ve bien pero parpadean 3 veces los leds blancos al inicio y final del trayecto.
 
 ### Problemas Encontrados y Soluciones
 
